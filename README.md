@@ -1,0 +1,2 @@
+# Mini-Studnet_Management_System
+Mini Studnet_Management_System
